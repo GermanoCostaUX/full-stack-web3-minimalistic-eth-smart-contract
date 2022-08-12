@@ -1,18 +1,18 @@
-Hello folks! This is a minimalistic Website that allows us to test our
+Hello folks! This is a Full Stack minimalist Website that allows us to test our
 local blockchain
 
         The complete code in indexed in the files!
 
-        ## Warning 1: You are deploying to a local network, you'll need a local
+        ## Warning 1: Fun fact!!! You are deploying to a local network, then you'll need a local
         network running to interact!
 
         ## Warning 2: These accounts, and their private keys, are publicly
-        known.Any funds sent to them on Mainnet or any other live network WILL
+        known. Any funds sent to them on Mainnet or any other live network WILL
         BE LOST.
 
-        ## Warning 3: We don use real ETH in this repo.
+        ## Warning 3: We don't use real ETH in this repo.
 
-        That`s it.Let's rock the Web3 Universe!
+        That`s it. Let's rock the Web3 Universe!
 
 In this project we will be using HTML / JavaScript in conjuction with Smart Contracts in Ethereum to build this Website (WEB3).
 
