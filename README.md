@@ -1,7 +1,7 @@
 Hello folks! This is a Full Stack minimalist Website that allows us to test our
 local blockchain
 
-        The complete code in indexed in the files!
+        The complete code is indexed in the files!
 
         ## Warning 1: Fun fact!!! You are deploying to a local network, then you'll need a local
         network running to interact!
